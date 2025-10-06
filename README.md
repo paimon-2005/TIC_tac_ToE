@@ -1,1 +1,3 @@
-# TTT_upgraded_version
+# 🎮 Tic Tac Toe – Upgraded Version
+This project is an upgraded version of my previous classic Tic Tac Toe game u can chek inmy repo, built using HTML, CSS, and JavaScript. It features a modern and responsive user interface with smooth gameplay and sound effects that enhance the experience. The system randomly decides who plays first, and the game automatically checks for wins, ties, and invalid moves, ensuring a seamless flow. Players can restart anytime for a quick rematch, and the code is lightweight, easy to understand, and customizable for future improvements like adding themes, scoreboards, or AI opponents. This repository demonstrates the perfect balance of design and functionality, making Tic Tac Toe not just a simple game but an enjoyable browser-based experience.
+here is the preview link - https://tic-tac-toe-alpha-silk-47.vercel.app/
